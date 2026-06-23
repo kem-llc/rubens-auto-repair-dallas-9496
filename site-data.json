@@ -2,39 +2,39 @@
   "business": {
     "name": "Ruben's Auto Repair",
     "shortName": "Ruben's Auto",
-    "tagline": "Trusted Dallas Auto Repair – Expert Service, Honest Prices",
+    "tagline": "Dallas's Trusted Auto Repair Since 1985",
     "niche": "Auto Mechanic",
     "phone": "(469) 648-9496",
     "address": "S Peak St, Dallas, TX 75226",
     "city": "Dallas, TX",
-    "hours": "Mon–Fri: 7:00 AM – 6:00 PM, Sat: 8:00 AM – 2:00 PM",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
     "ctaLabel": "Schedule Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Ruben's Auto Repair | Expert Auto Mechanic in Dallas, TX",
-    "description": "Ruben's Auto Repair in Dallas, TX offers expert auto repair and maintenance. From brake services to engine diagnostics, we keep you safe on the road. Call (469) 648-9496."
+    "title": "Ruben's Auto Repair | Expert Auto Mechanic in Dallas, TX | (469) 648-9496",
+    "description": "Family-owned auto repair in Dallas since 1985. Expert diagnostics, brakes, engines, and more. Honest pricing, guaranteed work. Call (469) 648-9496."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas' Trusted Auto Repair Shop",
-      "headline": "Expert Auto Mechanic Serving Dallas, TX",
-      "subheadline": "Reliable, honest, and affordable auto repair. We keep your car running smoothly with expert diagnostics and quality parts.",
-      "primaryCta": "Schedule Appointment",
+      "eyebrow": "Dallas's Trusted Auto Repair Since 1985",
+      "headline": "Your Car Deserves a Mechanic Who Cares",
+      "subheadline": "Expert diagnostics, transparent pricing, and a 12-month/12,000-mile warranty on all repairs.",
+      "primaryCta": "Book an Appointment",
       "secondaryCta": "Call (469) 648-9496"
     },
     "stats": [
       {
-        "value": "4.7",
-        "label": "Google Rating"
+        "value": "35+",
+        "label": "Years in Business"
       },
       {
-        "value": "15+",
-        "label": "Years Experience"
+        "value": "10,000+",
+        "label": "Cars Repaired"
       },
       {
-        "value": "500+",
-        "label": "Cars Serviced Annually"
+        "value": "4.9",
+        "label": "Average Customer Rating"
       },
       {
         "value": "100%",
@@ -43,116 +43,114 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Why Choose Us",
-        "title": "Quality Auto Repair You Can Count On",
-        "body": "At Ruben's Auto Repair, we treat every car like it's our own. Our certified technicians use state-of-the-art diagnostic equipment to identify issues quickly and accurately. We provide transparent pricing and explain every repair before we start work, so you never feel in the dark.",
+        "eyebrow": "Transparent Diagnostics",
+        "title": "We Find the Problem – and Fix It Right",
+        "body": "No guesswork, no unnecessary repairs. Our state-of-the-art diagnostic equipment pinpoints issues quickly, and we explain everything in plain English before any work begins.",
         "bullets": [
-          "ASE-certified technicians with ongoing training",
-          "Advanced diagnostic tools for accurate repairs",
-          "Transparent estimates with no hidden fees",
-          "Warranty on parts and labor for your peace of mind"
+          "Free multi-point inspection with every service",
+          "Digital photos and videos of findings",
+          "Itemized estimates with no hidden fees"
         ],
         "reverse": false,
-        "cardLabel": "Our Promise",
-        "cardTitle": "Honest & Reliable Service",
-        "cardBody": "We believe in building trust with every customer. That's why we offer a 12-month/12,000-mile warranty on all repairs and use only quality parts."
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "12-Month Warranty",
+        "cardBody": "Every repair is backed by our 12-month/12,000-mile warranty. If something goes wrong, we fix it at no cost to you."
       },
       {
-        "eyebrow": "Convenience",
-        "title": "Full-Service Auto Repair in Dallas",
-        "body": "From routine oil changes to major engine overhauls, we handle it all. Our shop is fully equipped to service all makes and models. We also offer complimentary multi-point inspections with every service to catch small issues before they become big problems.",
+        "eyebrow": "Full-Service Shop",
+        "title": "From Oil Changes to Engine Overhauls",
+        "body": "Whether it's routine maintenance or major repairs, our ASE-certified technicians have the skills and tools to handle any make or model. We use only quality parts and fluids.",
         "bullets": [
-          "Brake repair and replacement",
-          "Engine diagnostics and performance tuning",
-          "Transmission service and repair",
-          "AC, heating, and electrical system repairs"
+          "Brakes, suspension, and steering",
+          "Engine and transmission diagnostics & repair",
+          "AC, heating, and electrical systems"
         ],
         "reverse": true,
-        "cardLabel": "Fast Turnaround",
-        "cardTitle": "Most Repairs Done Same Day",
-        "cardBody": "We know you rely on your vehicle. Our efficient workflow and experienced team mean most repairs are completed the same day, so you're back on the road quickly."
+        "cardLabel": "Convenience",
+        "cardTitle": "Shuttle & Loaner Cars",
+        "cardBody": "Need to get around while we work? Ask about our free shuttle service within Dallas or a loaner vehicle for longer repairs."
       }
     ],
-    "whyTitle": "Why Choose Ruben's Auto Repair?",
+    "whyTitle": "Why Dallas Drivers Choose Ruben's",
     "whyChooseUs": [
       {
-        "title": "Certified Technicians",
-        "description": "Our team holds ASE certifications and attends regular training to stay current with the latest automotive technology."
+        "title": "Family-Owned & Operated",
+        "description": "We treat every customer like a neighbor. Our reputation is built on honesty and quality work, not sales quotas."
+      },
+      {
+        "title": "ASE-Certified Technicians",
+        "description": "Every mechanic on our team holds current ASE certifications and undergoes continuous training to stay ahead of automotive technology."
       },
       {
         "title": "Transparent Pricing",
-        "description": "We provide detailed estimates upfront and never start work without your approval. No surprises, just honest service."
+        "description": "You'll never get a surprise bill. We provide detailed estimates upfront and call you if anything changes during the repair."
       },
       {
-        "title": "Quality Parts & Warranty",
-        "description": "We use OEM and high-quality aftermarket parts, backed by a comprehensive warranty for your peace of mind."
-      },
-      {
-        "title": "Customer Satisfaction Focus",
-        "description": "Your safety and satisfaction are our top priorities. We take the time to answer your questions and ensure you're informed."
+        "title": "Fast Turnaround",
+        "description": "Most repairs are completed same-day or within 24 hours. We respect your time and keep our promises."
       }
     ],
     "testimonials": [
       {
-        "quote": "Ruben's Auto Repair is the only shop I trust with my car. They're honest, fair, and always do great work. Highly recommend!",
+        "quote": "I brought my old truck in for a mysterious squeal. Ruben's found a worn belt in minutes and had it replaced the same day. Fair price, great communication.",
         "author": "Mike T.",
         "role": "Oak Lawn Resident"
       },
       {
-        "quote": "I brought my SUV in for a strange noise, and they diagnosed it quickly. The repair was done on time and under budget. Will be back!",
-        "author": "Jessica L.",
-        "role": "Lakewood Homeowner"
+        "quote": "After a bad experience at a chain shop, Ruben's restored my faith in mechanics. They explained everything, showed me the old parts, and the car runs like new.",
+        "author": "Lisa R.",
+        "role": "Deep Ellum Homeowner"
       },
       {
-        "quote": "After a bad experience elsewhere, Ruben's restored my faith in auto repair. They explained everything and the price was reasonable.",
-        "author": "Carlos M.",
-        "role": "Deep Ellum Business Owner"
+        "quote": "Our whole family has been coming here for years. They're honest, reliable, and always stand behind their work. Couldn't ask for more.",
+        "author": "David M.",
+        "role": "Lakewood Business Owner"
       }
     ],
     "cta": {
-      "headline": "Ready to Get Your Car Serviced?",
-      "subheadline": "Schedule your appointment today and experience the Ruben's Auto Repair difference.",
-      "primaryCta": "Book Now",
+      "headline": "Ready to Experience the Ruben's Difference?",
+      "subheadline": "Schedule your appointment today and see why Dallas trusts us with their cars.",
+      "primaryCta": "Book Online Now",
       "secondaryCta": "Call (469) 648-9496"
     }
   },
   "servicesPage": {
-    "intro": "At Ruben's Auto Repair, we offer a full range of auto repair and maintenance services to keep your vehicle running at its best. From routine check-ups to complex repairs, our certified technicians have you covered."
+    "intro": "From routine maintenance to major repairs, our ASE-certified team provides expert auto repair services for all makes and models. Every service comes with a 12-month/12,000-mile warranty."
   },
   "services": [
     {
       "icon": "01",
       "title": "Brake Repair & Replacement",
-      "shortDescription": "Expert brake service to ensure your safety on the road.",
-      "longDescription": "Your brakes are your vehicle's most critical safety system. At Ruben's Auto Repair, we provide comprehensive brake inspections, repairs, and replacements. Whether you need new pads, rotors, calipers, or a complete brake system overhaul, our technicians use quality parts and precise techniques to restore stopping power and reliability.",
+      "shortDescription": "Stop safely with precision brake services – pads, rotors, calipers, and fluid flush.",
+      "longDescription": "Your brakes are your vehicle's most critical safety system. Our technicians inspect every component – pads, rotors, calipers, lines, and fluid – to ensure reliable stopping power. We use premium parts and follow manufacturer specifications for every repair.",
       "benefits": [
-        "Thorough inspection of all brake components",
-        "Use of premium pads and rotors for long life",
-        "No squeaks or vibrations – smooth stopping every time",
-        "Competitive pricing with warranty on parts and labor"
+        "Restored stopping distance and pedal feel",
+        "Elimination of squeaks, vibrations, and pulling",
+        "Extended brake component life with proper fluid maintenance",
+        "Safety inspection included with every service"
       ],
       "process": [
         {
           "title": "Inspection",
-          "description": "We check brake pads, rotors, calipers, lines, and fluid levels to identify any issues."
+          "description": "We measure pad thickness, rotor runout, and check caliper operation. A road test confirms any symptoms."
         },
         {
-          "title": "Repair/Replace",
-          "description": "Worn or damaged components are replaced with high-quality parts, and the system is bled and adjusted."
+          "title": "Repair",
+          "description": "We replace worn components with quality parts, lubricate slides, and bleed the system to remove air."
         },
         {
           "title": "Test Drive",
-          "description": "We test the brakes at various speeds to ensure proper function and your safety."
+          "description": "After a final road test, we ensure smooth, quiet operation and proper pedal feel before returning your car."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I replace my brake pads?",
-          "answer": "Typically every 30,000 to 70,000 miles, but it depends on driving habits and conditions. We inspect them during every service."
+          "question": "How often should I replace brake pads?",
+          "answer": "Most pads last 30,000-70,000 miles depending on driving habits. We recommend inspection every 10,000 miles."
         },
         {
-          "question": "What are signs my brakes need service?",
-          "answer": "Squealing, grinding, a soft brake pedal, or vibrations when braking are common indicators. Bring your car in for a free inspection if you notice any of these."
+          "question": "Do you resurface rotors or replace them?",
+          "answer": "We measure rotors against minimum thickness specs. If they're within tolerance, we resurface; otherwise, we recommend replacement for safety."
         }
       ],
       "slug": "brake-repair-replacement"
@@ -160,163 +158,163 @@
     {
       "icon": "02",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Advanced diagnostics to pinpoint and fix engine issues fast.",
-      "longDescription": "When your check engine light comes on or your car isn't performing as it should, our advanced diagnostic tools can quickly identify the root cause. From sensor failures to major mechanical problems, we have the expertise to repair your engine and restore performance. We explain the issue clearly and provide options so you can make an informed decision.",
+      "shortDescription": "Advanced diagnostics to pinpoint engine issues – from check engine lights to major overhauls.",
+      "longDescription": "When your check engine light comes on or your engine runs rough, our advanced diagnostic tools quickly identify the root cause. We specialize in everything from sensor replacements to complete engine rebuilds, using OEM-quality parts and factory procedures.",
       "benefits": [
-        "State-of-the-art diagnostic scanners for accurate codes",
-        "Experienced technicians who interpret data correctly",
-        "Efficient repairs that save you time and money",
-        "Clear communication about what's needed and why"
+        "Accurate diagnosis saves time and money",
+        "Improved fuel economy and performance",
+        "Extended engine life with proper repairs",
+        "Warranty coverage on all parts and labor"
       ],
       "process": [
         {
           "title": "Scan & Analyze",
-          "description": "We connect diagnostic equipment to read error codes and live data from your engine."
+          "description": "We connect to your vehicle's computer, read fault codes, and review live data to understand the issue."
         },
         {
-          "title": "Inspect & Test",
-          "description": "We perform visual and mechanical tests to confirm the issue and check for related problems."
+          "title": "Verify & Test",
+          "description": "We perform additional tests (compression, leak-down, fuel pressure) to confirm the diagnosis."
         },
         {
-          "title": "Repair & Verify",
-          "description": "We fix the problem, clear codes, and test drive to ensure everything is working perfectly."
+          "title": "Repair & Recheck",
+          "description": "After repair, we clear codes, road test, and re-scan to ensure the problem is resolved."
         }
       ],
       "faqs": [
         {
-          "question": "Why is my check engine light on?",
-          "answer": "It could be something simple like a loose gas cap, or more serious like an oxygen sensor or catalytic converter issue. We'll diagnose it accurately."
+          "question": "Can you diagnose a check engine light without a code?",
+          "answer": "Yes – we can read pending codes and use live data to identify intermittent issues."
         },
         {
-          "question": "Can you diagnose a car that won't start?",
-          "answer": "Yes. We can test the battery, starter, alternator, and fuel system to determine why your car won't start and get you back on the road."
+          "question": "Do you rebuild engines or just replace them?",
+          "answer": "We offer both options. Rebuilding can be cost-effective, but we'll recommend the best solution based on the engine's condition."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
       "icon": "03",
-      "title": "Oil Change & Preventive Maintenance",
-      "shortDescription": "Regular maintenance to extend the life of your vehicle.",
-      "longDescription": "Routine oil changes and preventive maintenance are the best ways to keep your car running efficiently and avoid costly repairs down the road. At Ruben's Auto Repair, we use quality oil and filters, and we perform a complimentary multi-point inspection with every oil change to catch potential issues early.",
+      "title": "Oil Change & Routine Maintenance",
+      "shortDescription": "Keep your car running smoothly with regular oil changes and factory-scheduled maintenance.",
+      "longDescription": "Regular oil changes are the simplest way to extend your engine's life. We use high-quality synthetic and conventional oils, along with genuine filters. Our multi-point inspection catches small issues before they become big problems.",
       "benefits": [
-        "High-quality synthetic and conventional oil options",
-        "Complimentary multi-point inspection with every service",
-        "Helps improve fuel economy and engine longevity",
-        "Convenient scheduling with quick turnaround"
+        "Engine protection and longevity",
+        "Better fuel economy and performance",
+        "Early detection of potential failures",
+        "Convenient appointment times and quick service"
       ],
       "process": [
         {
-          "title": "Drain & Replace",
-          "description": "We drain old oil, replace the oil filter, and fill with the correct grade of fresh oil."
+          "title": "Drain & Refill",
+          "description": "We drain old oil, replace the filter, and refill with the correct grade and quantity."
         },
         {
           "title": "Multi-Point Inspection",
-          "description": "We check belts, hoses, fluids, tires, brakes, and lights to identify any maintenance needs."
+          "description": "We check belts, hoses, fluids, tires, brakes, lights, and wipers – and share findings with you."
         },
         {
-          "title": "Report & Recommendations",
-          "description": "We provide a detailed report of your vehicle's condition and suggest any necessary follow-up services."
+          "title": "Reset & Record",
+          "description": "We reset your oil life monitor and affix a reminder sticker for your next service."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I get an oil change?",
-          "answer": "Most modern cars need an oil change every 5,000 to 7,500 miles, but check your owner's manual. We'll help you set a schedule."
+          "question": "How often should I change my oil?",
+          "answer": "Modern vehicles typically need oil changes every 5,000-7,500 miles. Check your owner's manual or ask us."
         },
         {
-          "question": "What's included in the multi-point inspection?",
-          "answer": "We check fluid levels, belts, hoses, tire condition and pressure, brake pads, lights, and more. It's a thorough health check for your car."
+          "question": "Do you use synthetic oil?",
+          "answer": "Yes – we offer conventional, synthetic blend, and full synthetic options to match your vehicle's requirements."
         }
       ],
-      "slug": "oil-change-preventive-maintenance"
+      "slug": "oil-change-routine-maintenance"
     },
     {
       "icon": "04",
-      "title": "AC & Heating System Repair",
-      "shortDescription": "Keep your cabin comfortable year-round with expert AC and heating service.",
-      "longDescription": "A functioning climate control system is essential for comfort and safety. Whether your AC blows warm air or your heater isn't working, our technicians can diagnose and repair the issue. We service compressors, condensers, evaporators, and all related components to restore proper operation.",
+      "title": "AC & Heating Repair",
+      "shortDescription": "Stay comfortable year-round with expert AC and heating system diagnostics and repair.",
+      "longDescription": "A malfunctioning AC or heater can make driving unbearable. Our technicians are trained to diagnose and repair all climate control systems – from refrigerant leaks to blend door actuators. We use specialized equipment to recover, recycle, and recharge refrigerant properly.",
       "benefits": [
-        "Complete AC and heating system diagnostics",
-        "Freon recharge and leak detection services",
-        "Repair or replacement of faulty components",
-        "Comfort you can count on in any weather"
+        "Restored cabin comfort in all seasons",
+        "Improved defroster performance for safety",
+        "Elimination of unusual odors or noises",
+        "Environmentally responsible refrigerant handling"
       ],
       "process": [
         {
-          "title": "System Check",
-          "description": "We test the AC and heater performance, check for leaks, and inspect all components."
+          "title": "Performance Test",
+          "description": "We measure vent temperatures, pressures, and inspect for leaks using UV dye and electronic detectors."
         },
         {
-          "title": "Diagnose Issue",
-          "description": "Using specialized tools, we pinpoint the cause of poor performance, such as low refrigerant or a bad compressor."
+          "title": "Diagnose & Estimate",
+          "description": "We identify the faulty component (compressor, condenser, evaporator, etc.) and provide a clear estimate."
         },
         {
-          "title": "Repair & Test",
-          "description": "We make the necessary repairs, recharge the system if needed, and verify that both heating and cooling work correctly."
+          "title": "Repair & Recharge",
+          "description": "We replace defective parts, evacuate the system, and recharge with the exact amount of refrigerant specified."
         }
       ],
       "faqs": [
         {
           "question": "Why is my AC blowing warm air?",
-          "answer": "Common causes include low refrigerant, a faulty compressor, or a clogged condenser. We'll diagnose the exact problem."
+          "answer": "Common causes include low refrigerant (leak), a faulty compressor, or a failed expansion valve. We'll diagnose the exact issue."
         },
         {
-          "question": "How often should I service my car's AC?",
-          "answer": "We recommend an AC check every two years or if you notice reduced cooling performance. Regular service can prevent major failures."
+          "question": "How often should I service my AC?",
+          "answer": "We recommend an AC check every two years. Regular use keeps seals lubricated and helps prevent leaks."
         }
       ],
-      "slug": "ac-heating-system-repair"
+      "slug": "ac-heating-repair"
     }
   ],
   "about": {
-    "headline": "Your Trusted Local Auto Repair Shop in Dallas",
-    "mission": "To provide honest, high-quality auto repair services that keep our customers safe and their vehicles reliable. We believe in transparency, integrity, and exceptional craftsmanship.",
+    "headline": "Dallas's Trusted Auto Repair Since 1985",
+    "mission": "To provide honest, high-quality auto repair that keeps our community safe on the road – with transparent pricing and a smile.",
     "story": [
-      "Ruben's Auto Repair was founded with a simple mission: offer Dallas drivers a better auto repair experience. With over 15 years of hands-on experience, Ruben saw too many shops prioritizing profit over people. He built his own shop on the principles of honesty, quality, and community. Every technician is trained to treat customers like neighbors and cars like their own.",
-      "Today, Ruben's Auto Repair serves hundreds of satisfied customers across Dallas. We've earned a reputation for fair pricing, clear communication, and reliable repairs. Whether it's a quick oil change or a complex engine rebuild, we approach every job with the same dedication. We're proud to be a part of the Dallas community and look forward to earning your trust."
+      "Ruben's Auto Repair was founded in 1985 by Ruben Martinez, a master mechanic with a simple philosophy: treat every car like it belongs to your mother. Starting in a small two-bay shop on Peak Street, Ruben built a reputation for integrity and skilled work. Over the decades, the business has grown but never lost its family feel. Today, Ruben's son Carlos leads a team of ASE-certified technicians who share that same commitment to excellence.",
+      "We've served generations of Dallas families, from Deep Ellum to Lakewood and beyond. Our shop has expanded to handle modern vehicles with advanced electronics, but our core values remain unchanged: fair pricing, quality parts, and standing behind every repair. When you bring your car to Ruben's, you're not just a customer – you're part of our family."
     ],
     "highlight": {
-      "stat": "4.7",
-      "label": "Average Google Rating"
+      "stat": "35+",
+      "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
-        "title": "Integrity",
-        "description": "We always tell you what your car needs and what it doesn't. No upsells, no surprises."
+        "title": "Honesty",
+        "description": "We never recommend unnecessary repairs. If it doesn't need fixing, we'll tell you."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and follow manufacturer specifications to ensure lasting repairs."
+        "description": "We use premium parts and follow manufacturer procedures to ensure lasting repairs."
       },
       {
-        "title": "Transparency",
-        "description": "You'll see a detailed estimate before any work begins, and we welcome your questions."
+        "title": "Respect",
+        "description": "We treat your time and your budget with respect – clear estimates, on-time completion."
       },
       {
         "title": "Community",
-        "description": "We support our local Dallas community and treat every customer like a friend."
+        "description": "We're proud to be a local business that supports Dallas schools, sports teams, and charities."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with Ruben's Auto Repair",
-    "subheadline": "Ready to schedule service or have a question? Contact us today – we're here to help.",
+    "headline": "Get in Touch",
+    "subheadline": "Ready to book? Give us a call or stop by – we'd love to help.",
     "primaryCta": "Call (469) 648-9496",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Oak Lawn",
-      "Lakewood",
       "Deep Ellum",
-      "Uptown",
+      "Lakewood",
       "Highland Park",
       "University Park",
-      "East Dallas"
+      "East Dallas",
+      "Uptown"
     ]
   },
   "social_proof": {
-    "rating": 4.7,
+    "rating": "",
     "reviews": null
   },
   "meta": {
